@@ -43,14 +43,11 @@ body {
     margin: .5rem;
 }
 
-
-
 .card-grid {
     display: grid;
     align-items: center;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 1rem;
-
 }
 
 .card {
